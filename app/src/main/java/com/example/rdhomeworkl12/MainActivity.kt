@@ -6,7 +6,6 @@ import android.net.Uri
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
-import java.net.URI
 
 class MainActivity: Activity() {
 
